@@ -1,0 +1,12 @@
+name: second_fhir_App
+title: second_fhir_App
+username:
+account: sanjeevareddy
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2993017
+bundleId: 3729205
+url: https://sanjeevareddy.shinyapps.io/second_fhir_App/
+when: 1602493005.31951
+asMultiple: FALSE
+asStatic: FALSE
